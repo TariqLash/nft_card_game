@@ -1,1 +1,1 @@
-# web3_card_game
+# Amazing NFT Card Game by Tariq Lashley
